@@ -14,7 +14,7 @@ Eng
 [2018 Python, Boto3, and AWS S3: Demystified](https://realpython.com/python-boto3-aws-s3)                  
 
 ### Video   
-**https://www.youtube.com/results?search_query=+Python+Amazon+Web+Services**                 
+**https://www.youtube.com/results?search_query=Python+Amazon+Web+Services**                 
 [19.04.2016 Running Python using Amazon Web Services(EC2)](https://www.youtube.com/watch?v=M2Wc8JIS-p8)              
 
 
@@ -31,4 +31,5 @@ Eng
 
 ### Video
 **https://www.youtube.com/results?search_query=python+google+cloud**              
+**https://www.youtube.com/results?search_query=python+google+cloud+на+русском+языке**
 [How to host python script on google cloud for free](https://www.youtube.com/watch?v=lEKp2O7MTfY)           

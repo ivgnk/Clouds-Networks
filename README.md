@@ -1,6 +1,6 @@
 # Clouds
 
-![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) ## Amazon            
+## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Amazon            
 ### Articles
 Rus       
 [21.05.2020 Бесплатный VPS (VDS) от Amazon навсегда: как получить](https://dzen.ru/a/XsTPErZhUybwGqs7)                     

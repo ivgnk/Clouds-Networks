@@ -52,7 +52,7 @@ Rus
 **https://github.com/yandex-cloud**          
 https://github.com/yandex-cloud/docs              
 https://github.com/yandex-cloud/examples               
-                 
+**https://github.com/search?q=Yandex+Cloud+python&type=repositories**                     
                 
 [cloud.yandex.ru: Как воспользоваться пробным периодом](https://cloud.yandex.ru/docs/free-trial/concepts/quickstart)          
 [cloud.yandex.ru: Разработка на Python. Обзор](https://cloud.yandex.ru/docs/functions/lang/python/)           

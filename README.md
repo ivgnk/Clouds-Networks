@@ -48,3 +48,6 @@ Rus
 [cloud.yandex.ru: Разработка на Python. Обзор](https://cloud.yandex.ru/docs/functions/lang/python/)           
      
 [13.02.2019 Яндекс.Облако: как создать аккаунт, и какие сервисы доступны](https://dzen.ru/a/XGKjwHF8vQCushlA)          
+                
+### Video
+[Yandex Cloud Functions 👍 Что это и как использовать? (FaaS, Python)](https://www.youtube.com/watch?v=SYwIFlXg-3w)           

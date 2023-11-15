@@ -1,5 +1,5 @@
 # Clouds
-## ## ![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Table of content                                            
+## ![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) Table of content                                            
 **[Anaconda](https://github.com/ivgnk/Clouds#-anaconda)**                                  
 **[Amazon](https://github.com/ivgnk/Clouds#-amazon)**                        
 **[Google](https://github.com/ivgnk/Clouds#-google)**                  

@@ -39,7 +39,10 @@ Eng
 **https://www.youtube.com/results?search_query=python+google+cloud**              
 **https://www.youtube.com/results?search_query=python+google+cloud+на+русском+языке**
 [How to host python script on google cloud for free](https://www.youtube.com/watch?v=lEKp2O7MTfY)           
-             
+
+## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Microsoft                    
+https://github.com/search?q=Microsoft+Cloud+python&type=repositories               
+                 
 
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Oracle                  
 ### Articles             
@@ -52,8 +55,8 @@ Rus
 **https://github.com/yandex-cloud**          
 https://github.com/yandex-cloud/docs              
 https://github.com/yandex-cloud/examples               
-**https://github.com/search?q=Yandex+Cloud+python&type=repositories**                     
-                
+**https://github.com/search?q=Yandex+Cloud+python&type=repositories** - 29 results                  
+                                    
 [cloud.yandex.ru: Как воспользоваться пробным периодом](https://cloud.yandex.ru/docs/free-trial/concepts/quickstart)          
 [cloud.yandex.ru: Разработка на Python. Обзор](https://cloud.yandex.ru/docs/functions/lang/python/)           
      

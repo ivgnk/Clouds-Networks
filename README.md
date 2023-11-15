@@ -1,10 +1,10 @@
 # Clouds
 ## Table of content                                            
-[Anaconda](https://github.com/ivgnk/Clouds#-anaconda)              
-[Amazon](https://github.com/ivgnk/Clouds#-amazon)         
-[Google]          
-[Microsoft]      
-[Yandex]                             
+**[Anaconda](https://github.com/ivgnk/Clouds#-anaconda)**                                  
+**[Amazon](https://github.com/ivgnk/Clouds#-amazon)**                        
+**[Google](https://github.com/ivgnk/Clouds#-google)**                  
+**[Microsoft](https://github.com/ivgnk/Clouds#-microsoft)**        
+**[Yandex](https://github.com/ivgnk/Clouds#-yandex)**                                       
 
 - - -         
 

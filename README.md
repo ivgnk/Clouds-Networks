@@ -8,6 +8,7 @@ Rus
 
 - - -
 Eng       
+[November 26, 2020 How to Drive your Cloud Implementation using Python](https://www.activestate.com/blog/how-to-drive-your-cloud-implementation-using-python/)                             
 [July 31, 2020 Getting started with Amazon S3 and Python](https://www.sqlshack.com/getting-started-with-amazon-s3-and-python)                 
 [March 7, 2019 Amazon S3 with Python Boto3 Library](https://python.gotrained.com/amazon-s3-boto3/)                    
 [2018 Python, Boto3, and AWS S3: Demystified](https://realpython.com/python-boto3-aws-s3)                  

@@ -18,7 +18,7 @@ Eng
 [19.04.2016 Running Python using Amazon Web Services(EC2)](https://www.youtube.com/watch?v=M2Wc8JIS-p8)              
 
 
-## Google          
+## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Google          
 Rus       
 [05.05.2023 Google cloud platform, можно ли юзать бесплатно?](https://qaa-engineer.ru/google-cloud-platform-mozhno-li-yuzat-besplatno/)                 
 [2020 Бесплатный VPS (VDS) от Google навсегда: как получить](https://seopulses.ru/besplatniy-vps-vds-v-google/)               

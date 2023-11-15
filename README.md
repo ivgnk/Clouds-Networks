@@ -27,4 +27,8 @@ Rus
 [Как запустить среду глубокого обучения Python в бесплатном облаке Google?](https://russianblogs.com/article/571172260/)        
 - - -                            
 Eng              
-[cloud.google.com: Get started with Python](https://cloud.google.com/python/docs/getting-started)              
+[cloud.google.com: Get started with Python](https://cloud.google.com/python/docs/getting-started)         
+
+### Video
+**https://www.youtube.com/results?search_query=python+google+cloud**              
+[How to host python script on google cloud for free](https://www.youtube.com/watch?v=lEKp2O7MTfY)           

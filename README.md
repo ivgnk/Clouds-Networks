@@ -19,6 +19,7 @@ Eng
 
 
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Google          
+### Articles
 Rus       
 [05.05.2023 Google cloud platform, можно ли юзать бесплатно?](https://qaa-engineer.ru/google-cloud-platform-mozhno-li-yuzat-besplatno/)                 
 [2020 Бесплатный VPS (VDS) от Google навсегда: как получить](https://seopulses.ru/besplatniy-vps-vds-v-google/)               
@@ -33,3 +34,8 @@ Eng
 **https://www.youtube.com/results?search_query=python+google+cloud**              
 **https://www.youtube.com/results?search_query=python+google+cloud+на+русском+языке**
 [How to host python script on google cloud for free](https://www.youtube.com/watch?v=lEKp2O7MTfY)           
+             
+
+## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Oracle                  
+### Articles
+[2020 Бесплатный VPS (VDS) от Oracle навсегда: как получить](https://seopulses.ru/besplatniy-vps-vds-v-oracle/)         

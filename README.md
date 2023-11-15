@@ -26,6 +26,7 @@ Eng
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Google          
 ### Articles
 Rus       
+https://habr.com/ru/hubs/googlecloud                     
 [05.05.2023 Google cloud platform, можно ли юзать бесплатно?](https://qaa-engineer.ru/google-cloud-platform-mozhno-li-yuzat-besplatno/)                 
 [2020 Бесплатный VPS (VDS) от Google навсегда: как получить](https://seopulses.ru/besplatniy-vps-vds-v-google/)               
 [07.06.2017 Облако Google Диск – инструкция по использованию](https://o-zarabotkeonline.ru/oblako-google-disk-instruktsiya-po-ispolzovaniyu/)                
@@ -45,7 +46,9 @@ https://github.com/search?q=Microsoft+Cloud+python&type=repositories
 [azure.microsoft.com: Создавайте приложения в облаке с помощью бесплатной учетной записи Azure](https://azure.microsoft.com/ru-ru/free)         
 
 ### Articles             
-Rus
+Rus             
+**https://yandex.ru/search/?text=как+бесплатно+пользоваться+облаком+Microsoft+Azure+для+Python**                
+https://habr.com/ru/hubs/azure/articles                    
 [04.04.2018 Как пользоваться Azure бесплатно (лайфхак для студентов)](https://habr.com/ru/companies/microsoft/articles/352786/)        
 
                  

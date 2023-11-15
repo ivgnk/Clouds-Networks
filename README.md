@@ -52,8 +52,12 @@ https://habr.com/ru/hubs/azure/articles
 [25.05.2020 Microsoft ♥️ Python](https://habr.com/ru/companies/microsoft/articles/508172/)            
 [04.04.2018 Как пользоваться Azure бесплатно (лайфхак для студентов)](https://habr.com/ru/companies/microsoft/articles/352786/)        
 
-                 
-
+### Video   
+**https://www.youtube.com/results?search_query=Microsoft+Azure+Python** 
+**https://www.youtube.com/results?search_query=microsoft+azure+python+на+русском**
+[Getting Started with Microsoft Azure in Python](https://www.youtube.com/watch?v=BErur8WwAsg)       
+               
+           
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Oracle                  
 ### Articles             
 [2020 Бесплатный VPS (VDS) от Oracle навсегда: как получить](https://seopulses.ru/besplatniy-vps-vds-v-oracle/)         

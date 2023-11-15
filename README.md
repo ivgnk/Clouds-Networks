@@ -49,6 +49,7 @@ https://github.com/search?q=Microsoft+Cloud+python&type=repositories
 Rus             
 **https://yandex.ru/search/?text=как+бесплатно+пользоваться+облаком+Microsoft+Azure+для+Python**                
 https://habr.com/ru/hubs/azure/articles                    
+https://habr.com/ru/search/?q=Azure%20Python&target_type=posts&order=relevance                    
 [25.05.2020 Microsoft ♥️ Python](https://habr.com/ru/companies/microsoft/articles/508172/)            
 [04.04.2018 Как пользоваться Azure бесплатно (лайфхак для студентов)](https://habr.com/ru/companies/microsoft/articles/352786/)        
                  

@@ -51,10 +51,10 @@ Rus
 https://habr.com/ru/hubs/azure/articles                    
 [25.05.2020 Microsoft ♥️ Python](https://habr.com/ru/companies/microsoft/articles/508172/)            
 [04.04.2018 Как пользоваться Azure бесплатно (лайфхак для студентов)](https://habr.com/ru/companies/microsoft/articles/352786/)        
-
-### Video   
-**https://www.youtube.com/results?search_query=Microsoft+Azure+Python** 
-**https://www.youtube.com/results?search_query=microsoft+azure+python+на+русском**
+                 
+### Video           
+**https://www.youtube.com/results?search_query=Microsoft+Azure+Python**                
+**https://www.youtube.com/results?search_query=microsoft+azure+python+на+русском**                 
 [Getting Started with Microsoft Azure in Python](https://www.youtube.com/watch?v=BErur8WwAsg)       
                
            

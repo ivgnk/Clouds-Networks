@@ -42,6 +42,12 @@ Eng
 
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Microsoft                    
 https://github.com/search?q=Microsoft+Cloud+python&type=repositories               
+[azure.microsoft.com: Создавайте приложения в облаке с помощью бесплатной учетной записи Azure](https://azure.microsoft.com/ru-ru/free)         
+
+### Articles             
+Rus
+[04.04.2018 Как пользоваться Azure бесплатно (лайфхак для студентов)](https://habr.com/ru/companies/microsoft/articles/352786/)        
+
                  
 
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Oracle                  

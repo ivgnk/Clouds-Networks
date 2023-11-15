@@ -23,4 +23,8 @@ Rus
 [05.05.2023 Google cloud platform, можно ли юзать бесплатно?](https://qaa-engineer.ru/google-cloud-platform-mozhno-li-yuzat-besplatno/)                 
 [2020 Бесплатный VPS (VDS) от Google навсегда: как получить](https://seopulses.ru/besplatniy-vps-vds-v-google/)               
 [07.06.2017 Облако Google Диск – инструкция по использованию](https://o-zarabotkeonline.ru/oblako-google-disk-instruktsiya-po-ispolzovaniyu/)                
-  
+      
+[Как запустить среду глубокого обучения Python в бесплатном облаке Google?](https://russianblogs.com/article/571172260/)        
+- - -                            
+Eng              
+[cloud.google.com: Get started with Python](https://cloud.google.com/python/docs/getting-started)              

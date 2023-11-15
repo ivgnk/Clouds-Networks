@@ -50,4 +50,5 @@ Rus
 [13.02.2019 Яндекс.Облако: как создать аккаунт, и какие сервисы доступны](https://dzen.ru/a/XGKjwHF8vQCushlA)          
                 
 ### Video
-[Yandex Cloud Functions 👍 Что это и как использовать? (FaaS, Python)](https://www.youtube.com/watch?v=SYwIFlXg-3w)           
+**https://www.youtube.com/results?search_query=python+yandex+cloud**              
+[Yandex Cloud Functions 👍 Что это и как использовать? (FaaS, Python)](https://www.youtube.com/watch?v=SYwIFlXg-3w)            

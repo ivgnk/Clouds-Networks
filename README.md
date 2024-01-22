@@ -6,6 +6,8 @@
 **[Microsoft](https://github.com/ivgnk/Clouds#-microsoft)**        
 **[Yandex](https://github.com/ivgnk/Clouds#-yandex)**                                       
 
+**[WiFi](https://github.com/ivgnk/Clouds#-yandex)**   
+
 - - -         
 
 ## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) Anaconda             
@@ -88,3 +90,6 @@ Rus
 ### Video
 **https://www.youtube.com/results?search_query=python+yandex+cloud**              
 [Yandex Cloud Functions 👍 Что это и как использовать? (FaaS, Python)](https://www.youtube.com/watch?v=SYwIFlXg-3w)            
+
+
+## ![#ff0000](https://placehold.co/15x15/ff0000/ff0000.png) WiFi
